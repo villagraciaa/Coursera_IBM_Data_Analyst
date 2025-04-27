@@ -20,6 +20,6 @@ Throughout this course you will learn the key aspects to data analysis. You will
 ---
 
 <p align="center">
-<img src="/Coursera_Certificates/IBM Specialization Data Analyst_002.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_002.png" width=60% height=60%>
 
 
