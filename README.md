@@ -87,7 +87,7 @@ This course is designed to provide you with basic working knowledge for using Ex
   
 
 <p align="center">
-<img src="[/Coursera_Certificates/IBM Specialization Data Analyst_003.png](https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_003.png)" width=60% height=60%>
+<img src="[https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_003.png)" width=60% height=60%>
 
 
 - [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/villagraciaa/Coursera_IBM_Data_Analyst/tree/main/Course%203%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
