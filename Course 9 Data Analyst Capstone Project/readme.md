@@ -41,4 +41,4 @@ You will undertake the tasks of collecting data from multiple sources, performin
 ---
 
 <p align="center">
-<img src="/Coursera_Certificates/IBM Specialization Data Analyst_010.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_011.png" width=60% height=60%>
