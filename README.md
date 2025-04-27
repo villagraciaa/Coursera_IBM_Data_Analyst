@@ -124,7 +124,7 @@ This introduction to Python course will take you from zero to programming in Pyt
 - Access web data using APIs and web scraping from Python in Jupyter Notebooks.   
 
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_005.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_006.png" width=60% height=60%>
 
 - [X] [__Course-5 : Python Project for Data Science__](https://github.com/villagraciaa/Coursera_IBM_Data_Analyst/tree/main/Course%205%20Python%20Project%20for%20Data%20Science)
 
@@ -143,7 +143,7 @@ You will perform specific data science and data analytics tasks such as extracti
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook. 
 
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_006.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_007.png" width=60% height=60%>
 
 - [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/villagraciaa/Coursera_IBM_Data_Analyst/tree/main/Course%206%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
@@ -174,7 +174,7 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 - Build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins. 
 
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_007.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_008.png" width=60% height=60%>
 
 - [x] [__Course-7 : Data Analysis with Python__](https://github.com/villagraciaa/Coursera_IBM_Data_Analyst/tree/main/Course%207%20Data%20Analysis%20with%20Python)
 
@@ -202,7 +202,7 @@ You will learn how to import data from multiple sources, clean and wrangle data,
 - Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
  
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_008.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_009.png" width=60% height=60%>
 
 - [x] [__Course-8 : Data Visualization with Python__](https://github.com/villagraciaa/Coursera_IBM_Data_Analyst//tree/main/Course%208%20Data%20Visulization%20with%20Python)
 
@@ -223,7 +223,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_009.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_010.png" width=60% height=60%>
 
 - [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/villagraciaa/Coursera_IBM_Data_Analyst/tree/main/Course%209%20Data%20Analyst%20Capstone%20Project)
 
