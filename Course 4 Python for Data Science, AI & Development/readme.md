@@ -56,4 +56,4 @@ This introduction to Python course will take you from zero to programming in Pyt
 
 ---
 <p align="center">
-<img src="/Coursera_Certificates/IBM Specialization Data Analyst_005.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_005.png" width=60% height=60%>
