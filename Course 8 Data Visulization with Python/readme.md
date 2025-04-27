@@ -22,4 +22,4 @@ You will learn hands-on by completing numerous labs and a final project to pract
 
 ---
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_009.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_007.png" width=60% height=60%>
