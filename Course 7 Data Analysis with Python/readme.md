@@ -55,5 +55,5 @@ You will learn how to import data from multiple sources, clean and wrangle data,
 
 ---
 <p align="center">
-<img src="/Coursera_Certificates/IBM Specialization Data Analyst_008.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_008.png" width=60% height=60%>
 
