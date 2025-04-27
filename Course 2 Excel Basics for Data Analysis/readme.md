@@ -16,5 +16,5 @@ This course is designed to provide you with basic working knowledge for using Ex
   ---
   
 <p align="center">
-<img src="/Coursera_Certificates/IBM Specialization Data Analyst_002.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_003.png" width=60% height=60%>
 
