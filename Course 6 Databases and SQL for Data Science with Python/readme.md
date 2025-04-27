@@ -42,6 +42,6 @@ This folder contains data files and a Jupyter Notebook script that demonstrates 
 
 ---
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_006.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_008.png" width=60% height=60%>
 
 
