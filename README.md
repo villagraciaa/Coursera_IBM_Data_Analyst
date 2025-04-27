@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Coursera_IBM_Data_Analyst
 =======
 
