@@ -19,5 +19,5 @@ This course covers some of the first steps in the development of data visualizat
 ---
 
 <p align="center">
-<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_003.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_004.png" width=60% height=60%>
 
