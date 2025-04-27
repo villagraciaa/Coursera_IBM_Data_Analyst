@@ -73,5 +73,5 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 ```
 ---
 <p align="center">
-<img src="/Coursera_Certificates/IBM Specialization Data Analyst_006.png" width=60% height=60%>
+<img src="https://github.com/villagraciaa/Coursera_Certificates/blob/main/IBM%20Specialization%20Data%20Analyst_006.png" width=60% height=60%>
 ---
